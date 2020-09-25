@@ -1,2 +1,0 @@
-# PersonalPage
-Criação pag pessoal
